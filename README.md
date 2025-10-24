@@ -1,4 +1,5 @@
 ***Originally developed in May 2025***
+
 Overview
 
 This project demonstrates the development of a domain-specific conversational agent using LangChain, OpenAI, and vector-based retrieval (FAISS).
